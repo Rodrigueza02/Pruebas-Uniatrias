@@ -1,7 +1,7 @@
 import { BrowserRouter } from "react-router-dom";
 import AppRoutes from "./routes/AppRoutes";
 
-function App(soool) {
+function App() {
   return (
     <BrowserRouter>
       <AppRoutes />
